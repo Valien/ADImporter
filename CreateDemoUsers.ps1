@@ -42,7 +42,7 @@ $departments = (                             # Departments and associated job ti
 $phoneCountryCodes = @{"GB" = "+44"}         # Country codes for the countries used in the address file
 
 # Other parameters
-$userCount = 5000                           # How many users to create
+$userCount = 500                            # How many users to create
 $locationCount = 1                          # How many different offices locations to use
 
 # Files used

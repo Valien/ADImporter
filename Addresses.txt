@@ -1,7 +1,7 @@
 City,Street,State,PostalCode,Country
-BETTWS NEWYDD,33 Northgate Street,Eng,BD233BB,GB
-BIGBY,89 Northgate Street,Eng,PH88JX,GB
-OLD RAYNE,44 Horsefair Green,Eng,BA122QR,GB
-Aachen,Kapellenstr 15-19,Nordrhein-Westfalen,52078,GB
-Aachen,Steinkaulplatz 12,Nordrhein-Westfalen,52078,GB
-Aachen,Trierer Str 366,Nordrhein-Westfalen,52078,GB
+Atlanta,33 Northgate Street,GA,BD233BB,US
+New York,89 Northgate Street,NY,PH88JX,US
+Greenville,44 Horsefair Green,SC,29601,US
+Greenville,Kapellenstr 15-19,SC,29615,US
+Portland,Steinkaulplatz 12,SC,55513,US
+Billings,Trierer Str 366,MT,55512,US
